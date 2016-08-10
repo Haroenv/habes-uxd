@@ -12,7 +12,11 @@ Habes is a platform that tracks who has materials in an organisation (profit or 
 2. Storyboard
 3. Interview questions
 4. Interview answers (3)
-5. ...
+5. Persona (2)
+6. Brainstorm
+7. Scenario
+8. Website table and sketches
+9. Prototype
 
 # License
 
