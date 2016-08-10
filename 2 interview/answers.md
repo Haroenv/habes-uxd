@@ -75,15 +75,15 @@ Last question (since you answered the other ones yourself): would there be inter
 christophe [2:20 PM]
 For us not really cause we don't have that much and it would need to re organize everything, but I can see the interest for the Club associated with the Science faculty. They have 2 weeks during the first semester and 2 weeks during the second semester where they're open from noon until 3AM and sell a huge array of different special beers, and it would benefit them to have their inventory more available. Most of the time, when you go and ask for a beer, they have to go downstairs in the cellar to see if there's some, if they don't find it they still ask the responsible people if they still have any, who 90% of the time go downstairs to see by themselves, so having a clear inventory would be better for them. But on the other hand, it's hard to keep it up to date when there's people ordering every 30 seconds...
 
-##
+## Lucas B.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Projectors, laptops, tablets for when we show project to clients.
+2. If I don't have something myself I go to the store room and look if it's there. Then I put my name on the paper on the wall that I took it and for how long.
+3. Nope, when I need something I can usually take it.
+4. I usually look in the morning or the day before I'm giving a presentation.
+5. We have a store room, and there's a paper that keeps who took what, but it's not really checked or organised or anything
+6. Anyone that needs something for work, so presentations or during work
+7. Put it back on the shelf I found it at and fill in the end date on the paper.
+8. I look around and remember what's in the room.
+9. Nope, just for work
+10. It all belongs to the company.
