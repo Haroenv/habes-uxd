@@ -1,4 +1,4 @@
-# habes.io
+# <img src="logo.png" alt="habes.io" height="50px">
 
 This is a user experience design project made for Odisee University College Ghent in the academic year 2015-2016.
 
