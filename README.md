@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="habes.io" height="50px">
+# [<img src="logo.png" alt="habes.io" height="50px">](https://github.com/Haroenv/habes-uxd)
 
 This is a user experience design project made for Odisee University College Ghent in the academic year 2015-2016.
 
