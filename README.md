@@ -16,7 +16,7 @@ Habes is a platform that tracks who has materials in an organisation (profit or 
 - [x] Brainstorm
 - [x] Scenario
 - [x] Website and page tables
-- [ ] Sketches
+- [x] Sketches
 - [ ] Prototype
 
 # License
